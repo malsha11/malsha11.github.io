@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11f979293f7e025d89c9d41e7ea9f38d",
+    "revision": "48b60b613030af3fe279f0a1f6e98f5d",
     "url": "/index.html"
   },
   {
-    "revision": "2778bf0fd20b4362d9c2",
+    "revision": "89394318ae30f8e9b1bf",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "ff8e9e0a107456369586",
+    "revision": "071d477953eaa9db5384",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "b595caf9b8e5a8f25601",
-    "url": "/static/css/main.1bd6e36f.chunk.css"
+    "revision": "4b1022983d5557bc49a0",
+    "url": "/static/css/main.5c77187d.chunk.css"
   },
   {
-    "revision": "af92b56d2326a95d1b51",
-    "url": "/static/js/2.266d249c.chunk.js"
+    "revision": "8b536fd82a882ac0ccdf",
+    "url": "/static/js/2.2074346d.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.266d249c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2074346d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2778bf0fd20b4362d9c2",
-    "url": "/static/js/3.b1a2a86c.chunk.js"
+    "revision": "89394318ae30f8e9b1bf",
+    "url": "/static/js/3.98d5202a.chunk.js"
   },
   {
-    "revision": "ff8e9e0a107456369586",
-    "url": "/static/js/4.2c5d20b6.chunk.js"
+    "revision": "071d477953eaa9db5384",
+    "url": "/static/js/4.f94132a9.chunk.js"
   },
   {
-    "revision": "b595caf9b8e5a8f25601",
-    "url": "/static/js/main.564863e1.chunk.js"
+    "revision": "4b1022983d5557bc49a0",
+    "url": "/static/js/main.86ce4cc7.chunk.js"
   },
   {
-    "revision": "3820acf0ff4da4021d86",
-    "url": "/static/js/runtime-main.fd503607.js"
+    "revision": "7cf32f927da0fc31fac7",
+    "url": "/static/js/runtime-main.cca845f9.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -64,12 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CoffeTableBook.ce7c9f28.png"
   },
   {
+    "revision": "53b03cde2583c9df29b2cf2e72815a8a",
+    "url": "/static/media/Devtown.53b03cde.jfif"
+  },
+  {
     "revision": "9dc89d820658303f3545e8157da96d7d",
     "url": "/static/media/EduPlannerWeb.9dc89d82.png"
   },
   {
-    "revision": "f0124dc581a5c05fffae3450d7144d12",
-    "url": "/static/media/FOSS_Logo.f0124dc5.jpg"
+    "revision": "05cf5183c0fc6a45939a2c3edcf96e85",
+    "url": "/static/media/FOSS_Logo.05cf5183.jpg"
   },
   {
     "revision": "5f360fe0738c35ce18f4788e6af1df17",
@@ -90,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35311680f73b057d6d2a1775cc3475e0",
     "url": "/static/media/PeoplesBankLogo.35311680.jpg"
+  },
+  {
+    "revision": "3a9bba340473298cdbd4f2b756430800",
+    "url": "/static/media/School_logo.3a9bba34.jfif"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
