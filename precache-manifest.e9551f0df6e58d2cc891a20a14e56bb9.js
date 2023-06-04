@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72981e46c0647a40e7b9358123a06eb0",
+    "revision": "b3081b121a91d7ca543c8920bfb69d2c",
     "url": "/index.html"
   },
   {
-    "revision": "89394318ae30f8e9b1bf",
+    "revision": "34a9883fb855dfa4752d",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "071d477953eaa9db5384",
+    "revision": "fc8d9dfb8bbc96455c19",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "56ca524a5302f961c6f6",
-    "url": "/static/css/main.5e89aa6e.chunk.css"
+    "revision": "2f847114712e70948ead",
+    "url": "/static/css/main.22405dd6.chunk.css"
   },
   {
-    "revision": "8b536fd82a882ac0ccdf",
-    "url": "/static/js/2.2074346d.chunk.js"
+    "revision": "6abbc2694bd2a7fceb87",
+    "url": "/static/js/2.9cfdb71a.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.2074346d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9cfdb71a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89394318ae30f8e9b1bf",
-    "url": "/static/js/3.98d5202a.chunk.js"
+    "revision": "34a9883fb855dfa4752d",
+    "url": "/static/js/3.532615e7.chunk.js"
   },
   {
-    "revision": "071d477953eaa9db5384",
-    "url": "/static/js/4.f94132a9.chunk.js"
+    "revision": "fc8d9dfb8bbc96455c19",
+    "url": "/static/js/4.c0fa26d9.chunk.js"
   },
   {
-    "revision": "56ca524a5302f961c6f6",
-    "url": "/static/js/main.f14ad381.chunk.js"
+    "revision": "2f847114712e70948ead",
+    "url": "/static/js/main.92e5b019.chunk.js"
   },
   {
-    "revision": "7cf32f927da0fc31fac7",
-    "url": "/static/js/runtime-main.cca845f9.js"
+    "revision": "01656f3d6616bebd993c",
+    "url": "/static/js/runtime-main.caec8eb1.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,20 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/EduPlannerWeb.9dc89d82.png"
   },
   {
-    "revision": "05cf5183c0fc6a45939a2c3edcf96e85",
-    "url": "/static/media/FOSS_Logo.05cf5183.jpg"
-  },
-  {
     "revision": "5f360fe0738c35ce18f4788e6af1df17",
     "url": "/static/media/LibraryManagementSystem.5f360fe0.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "4f1a61e2570e82efc9cfe4318e2c2d6a",
-    "url": "/static/media/NewsApp.4f1a61e2.png"
   },
   {
     "revision": "bc8ac83c669fcd1411b5400963d8dc94",
@@ -114,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "cb1327f80cf84cbbb1bf2c52b05abbb5",
+    "url": "/static/media/serverclub-logo-white.cb1327f8.jfif"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
